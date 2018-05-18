@@ -9,7 +9,7 @@
       "urls": [
         "basic-angular-app/favicon.ico",
         "basic-angular-app/index.html",
-        "basic-angular-app/main.57c6a70077c35f4800fd.js",
+        "basic-angular-app/main.38abbc94681acae0b604.js",
         "basic-angular-app/polyfills.b4daf421c94934f530d4.js",
         "basic-angular-app/runtime.a66f828dca56eeb90e02.js",
         "basic-angular-app/styles.34c57ab7888ec1573f9c.css"
@@ -44,9 +44,9 @@
     "basic-angular-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "basic-angular-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "basic-angular-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "basic-angular-app/index.html": "4ef9485eac6da1e704eb0419ef5bc936609adb22",
-    "basic-angular-app/main.57c6a70077c35f4800fd.js": "3f8230614df79cf87b0e22d87d95ca7d6b029028",
-    "basic-angular-app/polyfills.b4daf421c94934f530d4.js": "405a5f6b7699ea1b9b95b0c1c81e0f25db3da7e1",
+    "basic-angular-app/index.html": "b1cdee30c159531fffef7ff2183e9e574cecedec",
+    "basic-angular-app/main.38abbc94681acae0b604.js": "3818a8d59c1653505a5b5c9025fb5d7e7db8347b",
+    "basic-angular-app/polyfills.b4daf421c94934f530d4.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
     "basic-angular-app/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "basic-angular-app/styles.34c57ab7888ec1573f9c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
